@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Tuler Anizio</h1>
-<h3 align="center">A passionate backend and data science enthusiast from Brazil</h3>
+<h3 align="center">A passionate backend, data science enthusiast and IT support worker from Brazil</h3>
 
-- 🌱 I’m currently learning **data science, machine learning**
+- 🌱 I’m currently learning **back-end development anddata science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
